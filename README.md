@@ -1,6 +1,7 @@
 # Redo - A Unreal Engine Replay Manager
 A basic, deterministic state replay handler for Unreal Engine.
-Created originally to use for my fighting game, this can be used to implement a Replay Manager for your game state.
+Originally created for my fighting game, this can be used to implement a Replay Manager for your game state.
+
 For examples on how to use, look at the [GekkoGameUE](https://github.com/koenjicode/GekkoGameUE) project.
 
 ## Features
